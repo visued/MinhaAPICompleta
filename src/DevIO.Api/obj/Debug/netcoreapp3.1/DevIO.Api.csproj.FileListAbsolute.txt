@@ -31,3 +31,6 @@
 /home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Api/obj/Debug/netcoreapp3.1/DevIO.Api.dll
 /home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Api/obj/Debug/netcoreapp3.1/DevIO.Api.pdb
 /home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Api/obj/Debug/netcoreapp3.1/DevIO.Api.genruntimeconfig.cache
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Api/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Api/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll

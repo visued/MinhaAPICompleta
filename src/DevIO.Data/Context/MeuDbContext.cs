@@ -14,17 +14,10 @@ namespace DevIO.Data.Context
         {
         }
 
-
         public DbSet<Produto> Produtos { get; set; }
         public DbSet<Endereco> Enderecos { get; set; }
         public DbSet<Fornecedor> Fornecedores { get; set; }
 
-
-        // protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        // {
-        //     optionsBuilder.UseOracle("DATA SOURCE=172.17.0.2:1521/oracle_12g;PERSIST SECURITY INFO=True;USER ID=sys; password=123456; Pooling =False;")
-        //     .UseQueryTrackingBehavior(QueryTrackingBehavior.TrackAll);
-        // }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             foreach (var property in modelBuilder.Model.GetEntityTypes()
@@ -58,12 +51,14 @@ namespace DevIO.Data.Context
         }
     }
 
+    // For Generate Migrations
     public class ApplicationContextDbFactory : IDesignTimeDbContextFactory<MeuDbContext>
     {
         MeuDbContext IDesignTimeDbContextFactory<MeuDbContext>.CreateDbContext(string[] args)
         {
             var optionsBuilder = new DbContextOptionsBuilder<MeuDbContext>();
-            optionsBuilder.UseOracle<MeuDbContext>("DATA SOURCE=172.17.0.2:1521/oracle_12g;PERSIST SECURITY INFO=True;USER ID=sys; password=123456; Pooling =False;");
+            optionsBuilder.UseOracle<MeuDbContext>("DATA SOURCE=172.17.0.2:1521/ORCLCDB.localdomain;PERSIST SECURITY INFO=True;USER ID=SYSTEM; password=ORACLE123; Pooling =False;")
+            .UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking);
 
             return new MeuDbContext(optionsBuilder.Options);
         }
