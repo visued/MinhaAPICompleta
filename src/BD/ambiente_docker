@@ -1,0 +1,3 @@
+docker pull mcr.microsoft.com/mssql/server:2019-latest
+
+docker run --name MinhaAPICompletaSQLServer -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=SqlServer2020!' -v /home/sued/fastProjects/BD/sqlserver:/var/opt/mssql -p 41433:1433 -d mcr.microsoft.com/mssql/server:2019-latest

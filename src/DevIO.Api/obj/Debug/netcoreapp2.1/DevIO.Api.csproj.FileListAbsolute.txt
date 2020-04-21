@@ -1,0 +1,4 @@
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Api/obj/Debug/netcoreapp2.1/DevIO.Api.csprojAssemblyReference.cache
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Api/obj/Debug/netcoreapp2.1/DevIO.Api.csproj.CoreCompileInputs.cache
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Api/obj/Debug/netcoreapp2.1/DevIO.Api.AssemblyInfoInputs.cache
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Api/obj/Debug/netcoreapp2.1/DevIO.Api.AssemblyInfo.cs

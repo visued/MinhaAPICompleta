@@ -1,0 +1,19 @@
+{
+  "FilePath": "/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Api/DevIO.Api.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "DevIO.Api",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}

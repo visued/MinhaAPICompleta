@@ -1,0 +1,17 @@
+{
+    "reason": "0x00000003",
+    "processName": "sqlservr",
+    "pid": "1",
+    "instanceId": "2b21e50e-d1fa-4955-8bf6-02b957ef5b2e",
+    "crashId": "",
+    "threadId": "6",
+    "buildStamp": "05d4bbaeb108ea432efd44222e380bef8c0a58f369e177ebabf61c807e4b3893",
+    "message": "Unexpected call to legacy ABI.",
+    "nativeStack": [
+        "0x000055d07324e85e",
+        "0x000055d07324d653",
+        "0x000055d073190cbe",
+        "0x000055d0731d4b17"
+    ],
+    "timestamp": "Sun Mar 22 15:02:21 2020"
+}

@@ -1,0 +1,15 @@
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Data/bin/Debug/netcoreapp3.1/DevIO.Data.deps.json
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Data/bin/Debug/netcoreapp3.1/DevIO.Data.dll
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Data/bin/Debug/netcoreapp3.1/DevIO.Data.pdb
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Data/bin/Debug/netcoreapp3.1/DevIO.Business.dll
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Data/bin/Debug/netcoreapp3.1/DevIO.Business.pdb
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Data/obj/Debug/netcoreapp3.1/DevIO.Data.csprojAssemblyReference.cache
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Data/obj/Debug/netcoreapp3.1/DevIO.Data.csproj.CoreCompileInputs.cache
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Data/obj/Debug/netcoreapp3.1/DevIO.Data.AssemblyInfoInputs.cache
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Data/obj/Debug/netcoreapp3.1/DevIO.Data.AssemblyInfo.cs
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Data/obj/Debug/netcoreapp3.1/DevIO.Data.csproj.CopyComplete
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Data/obj/Debug/netcoreapp3.1/DevIO.Data.dll
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Data/obj/Debug/netcoreapp3.1/DevIO.Data.pdb
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Data/bin/Debug/netcoreapp3.1/DevIO.Data.runtimeconfig.json
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Data/bin/Debug/netcoreapp3.1/DevIO.Data.runtimeconfig.dev.json
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Data/obj/Debug/netcoreapp3.1/DevIO.Data.genruntimeconfig.cache

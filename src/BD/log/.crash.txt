@@ -1,0 +1,13 @@
+This program has encountered a fatal error and cannot continue running at Sun Mar 22 15:02:21 2020
+The following diagnostic information is available:
+
+       Reason: 0x00000003
+      Message: Unexpected call to legacy ABI.
+   Stacktrace: 000055d07324dab4 000055d07324d645 000055d073190cbe 
+               000055d0731d4b17 
+      Process: 1 - sqlservr
+       Thread: 6
+  Instance Id: 2b21e50e-d1fa-4955-8bf6-02b957ef5b2e
+     Crash Id: 
+  Build stamp: 05d4bbaeb108ea432efd44222e380bef8c0a58f369e177ebabf61c807e4b3893
+    Timestamp: Sun Mar 22 15:02:21 2020

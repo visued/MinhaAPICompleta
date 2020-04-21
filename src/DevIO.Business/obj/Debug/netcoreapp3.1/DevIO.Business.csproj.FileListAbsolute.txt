@@ -1,0 +1,9 @@
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Business/bin/Debug/netcoreapp3.1/DevIO.Business.deps.json
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Business/bin/Debug/netcoreapp3.1/DevIO.Business.dll
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Business/bin/Debug/netcoreapp3.1/DevIO.Business.pdb
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Business/obj/Debug/netcoreapp3.1/DevIO.Business.csproj.CoreCompileInputs.cache
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Business/obj/Debug/netcoreapp3.1/DevIO.Business.AssemblyInfoInputs.cache
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Business/obj/Debug/netcoreapp3.1/DevIO.Business.AssemblyInfo.cs
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Business/obj/Debug/netcoreapp3.1/DevIO.Business.dll
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Business/obj/Debug/netcoreapp3.1/DevIO.Business.pdb
+/home/sued/fastProjects/learningDotNetCore/REST com ASP.NET Core WebAPI/MinhaAPICompleta/src/DevIO.Business/obj/Debug/netcoreapp3.1/DevIO.Business.csprojAssemblyReference.cache
